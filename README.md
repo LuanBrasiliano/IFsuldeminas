@@ -1,2 +1,0 @@
-# IFsuldeminas
-Exercicios do IF
